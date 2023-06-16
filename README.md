@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vishhnu-dev
 - 🌱 I’m currently working as a full backend ruby developer at Snfs, oh yeah!
-- 🌱 I’m currently learning... tdd, next.js, CircleCI, rubocop, c++, scrum, Ruby Style Guide(as a religious option) and building a snfs(snf-> my company, s->stands for system) private gem.
-- 💞️ I’m looking to collaborate on rails development
+- 🌱 I’m currently learning... next.js, c++, Unreal Engine.
+- 💞️ I’m looking to develop my own game.
 - 📫 How to reach me? Send a smoke signal to avitassibanac@gmail.com
 
 <!---
