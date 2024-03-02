@@ -1,5 +1,5 @@
 <h1> 👋 Hi, I’m @vishhnu-dev, from Brazil. </h1>
-- 🌱 I’m currently working as a <b>Full Backend Engineer</b>, about four and half years, and I'm Studying C++, Unreal Engine, React & (Python & Astronomy).
+- 🌱 I’m currently working as a <b>Full Backend Engineer</b>, about four and half years.
 
 ## How to reach me
   
