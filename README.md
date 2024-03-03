@@ -32,6 +32,36 @@
 <div>
   <h2 class="text-center" >Full Skills Description</h2>  
   <p class="text-justify">
-    Ruby and Rails(v4 until v7) Official Style Guide, Auth(All Devise features on navigational_format and json), Authz(Pundit), Linux/Windows/Mac, Docker, Real Time Features, Async Background Jobs, Micro Services, CRM's, Integrations, TDD, BDD, API's REST/RESTful, Hotwire, Stimulus, ESBuild, Agile Software Development, .csv, .pdf, .xml, .xmlsx, .yml.
+    - **Ruby**
+    - **Rails**(v4 until v7)
+    - **Javascript** Currently using ESBuild, HotWire && Turbo Streams, so no need for node.js, react, node_modules, etc...
+    - **SQL** at the moust powerful and productive way usgin rails polymorphic.
+    - POO
+    - MVC
+    - Official Style Guides
+    - Auth(All Devise features on navigational_format and json)
+    - Authz(Pundit)
+    - Linux/Windows/Mac
+    - Docker
+    - Real Time Features
+    - Async Background Jobs
+    - Micro Services
+    - CRM's
+    - Integrations
+    - TDD
+    - BDD
+    - API's REST/RESTful
+    - Hotwire
+    - Stimulus
+    - ESBuild
+    - .csv
+    - .pdf
+    - .xml
+    - .xmlsx
+    - .yml.
+    - HTML5
+    - PHP
+    - C++
+    - [CSS, SCSS]
   </p>
 </div>
