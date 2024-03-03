@@ -30,8 +30,8 @@
 </hr>
 
 <div>
-  <h2 class="text-center" >Others Skills</h2>  
+  <h2 class="text-center" >Full Skills Description</h2>  
   <p class="text-justify">
-    Background Jobs, Micro Services, CRM's, Integrations, TDD & BDD, API's RESTful.
+    Ruby and Rails(v4 until v7) Official Style Guide, Auth(All Devise features on navigational_format and json), Authz(Pundit), Linux/Windows/Mac, Docker, Real Time Features, Async Background Jobs, Micro Services, CRM's, Integrations, TDD, BDD, API's REST/RESTful, Hotwire, Stimulus, ESBuild, Agile Software Development, .csv, .pdf, .xml, .xmlsx, .yml.
   </p>
 </div>
