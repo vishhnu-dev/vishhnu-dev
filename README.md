@@ -32,36 +32,36 @@
 <div>
   <h2 class="text-center" >Full Skills Description</h2>  
   <p class="text-justify">
-    - **Ruby**
-    - **Rails**(v4 until v7)
-    - **Javascript** Currently using ESBuild, HotWire && Turbo Streams, so no need for node.js, react, node_modules, etc...
-    - **SQL** at the moust powerful and productive way usgin rails polymorphic.
-    - POO
-    - MVC
-    - Official Style Guides
-    - Auth(All Devise features on navigational_format and json)
-    - Authz(Pundit)
-    - Linux/Windows/Mac
-    - Docker
-    - Real Time Features
-    - Async Background Jobs
-    - Micro Services
-    - CRM's
-    - Integrations
-    - TDD
-    - BDD
-    - API's REST/RESTful
-    - Hotwire
-    - Stimulus
-    - ESBuild
-    - .csv
-    - .pdf
-    - .xml
-    - .xmlsx
-    - .yml.
-    - HTML5
-    - PHP
-    - C++
-    - [CSS, SCSS]
+    <p>**Ruby**(v2.3 until current)</p>
+    <p>**Rails**(v4 until v7)</p>
+    <p>**Javascript** Currently using ESBuild with Stumilus, HotWire && Turbo Streams, so no need for node.js, react, node_modules, etc...</p>
+    <p>**SQL** at the moust powerful and productive way usgin rails polymorphic.</p>
+    <p>Official Style Guides</p>
+    <p>Real Time Features</p>
+    <p>Async Background Jobs</p>
+    <p>Micro Services</p>
+    <p>Any Integrations</p>
+    <p>SOLID</p>
+    <p>Agile</p>
+    <p>TDD</p>
+    <p>BDD</p>
+    <p>API's REST/RESTful</p>
+    <p>Hotwire</p>
+    <p>Stimulus JS Framework</p>
+    <p>POO</p>
+    <p>MVC</p>
+    <p>Authorization (All Devise features on navigational_format and json)</p>
+    <p>Authorization</p>
+    <p>Linux/Windows/Mac</p>
+    <p>Docker</p>
+    <p>CRM's</p>
+    <p>.csv</p>
+    <p>.pdf</p>
+    <p>.xml</p>
+    <p>.xmlsx</p>
+    <p>HTML5</p>
+    <p>C++</p>
+    <p>PHP</p>
+    <p>[.CSS, .SCSS]</p>
   </p>
 </div>
