@@ -51,7 +51,7 @@
     <p>POO</p>
     <p>MVC</p>
     <p>Authorization (All Devise features on navigational_format and json)</p>
-    <p>Authorization</p>
+    <p>Authentication</p>
     <p>Linux/Windows/Mac</p>
     <p>Docker</p>
     <p>CRM's</p>
