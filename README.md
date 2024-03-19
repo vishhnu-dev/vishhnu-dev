@@ -34,7 +34,7 @@
   <p class="text-justify">
     <p>**Ruby**(v2.3 until current)</p>
     <p>**Rails**(v4 until v7)</p>
-    <p>**Javascript** Currently using ESBuild with Stumilus, HotWire && Turbo Streams, so no need for node.js, react, node_modules, etc...</p>
+    <p>**Javascript** Currently using ESBuild with Stumilus</p>
     <p>**SQL** at the moust powerful and productive way usgin rails polymorphic.</p>
     <p>Official Style Guides</p>
     <p>Real Time Features</p>
@@ -47,14 +47,14 @@
     <p>BDD</p>
     <p>API's REST/RESTful</p>
     <p>Hotwire</p>
-    <p>Stimulus JS Framework</p>
     <p>POO</p>
     <p>MVC</p>
-    <p>Authorization (All Devise features on navigational_format and json)</p>
+    <p>Authorization (All Devise features on navigational_format and json API JWT)</p>
     <p>Authentication</p>
     <p>Linux/Windows/Mac</p>
     <p>Docker</p>
     <p>CRM's</p>
+    <p>Saas's</p>
     <p>.csv</p>
     <p>.pdf</p>
     <p>.xml</p>
